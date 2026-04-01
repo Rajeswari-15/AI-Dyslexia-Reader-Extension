@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Dyslexia Reading Assistant",
+  "version": "1.0",
+  "description": "Helps dyslexic users read text easily",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "scripting", "storage"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts":[
+    {
+      "matches":["<all_urls>"],
+      "js":["content.js"]
+
+    }
+  ]
+
+}
