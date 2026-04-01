@@ -71,6 +71,16 @@ This project helps individuals with dyslexia by:
 5. Select the `extension` folder
 
 ---
+## 📸 Screenshots
+
+### 🔹 Extension UI
+![UI](https://github.com/Rajeswari-15/AI-Dyslexia-Reader-Extension/blob/main/Images/UI.png)
+
+### 🔹 Enable Reading Mode
+![Enable](Images/Enable_mode.png)
+
+### 🔹 Disable Reading Mode
+![Disable](Images/Disable_mode.png)
 
 ## 👩‍💻 Author
 
